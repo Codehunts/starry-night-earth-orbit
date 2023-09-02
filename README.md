@@ -9,7 +9,7 @@ You can view the animation in action on [YouTube](https://www.youtube.com/@CodeJ
 
 ## Demo
 
-For an interactive demo, visit our [Facebook page](https://facebook.com/codehunts) or [Instagram](https://facebook.com/codehunts). Don't forget to like and follow us for more exciting projects!
+For an interactive demo, visit our [Facebook page](https://facebook.com/codehunts) or [Instagram](https://instagram.com/codehunts). Don't forget to like and follow us for more exciting projects!
 
 ## How to Use
 
